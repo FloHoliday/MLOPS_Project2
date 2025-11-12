@@ -38,7 +38,7 @@ This project demonstrates containerized machine learning workflows by fine-tunin
 
 ```bash
 git clone https://github.com/FloHoliday/MLOPS_Project2
-cd mlops-project2
+cd mlops_project2
 ```
 
 ### 2. Build the Docker Image
